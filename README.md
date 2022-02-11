@@ -7,6 +7,4 @@
 <!---
 cklrhb50/cklrhb50 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1324255664051826"
-     crossorigin="anonymous"></script>
+--
